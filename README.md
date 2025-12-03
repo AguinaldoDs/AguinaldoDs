@@ -1,63 +1,95 @@
-<h3 align="left">Hi! 👋 Welcome! I'm a Full Stack Developer specialized in Java, Angular, React, Next.js and Docker. Feel free to explore my work and reach out anytime!</h3>
+<h1 align="center">👋 Hey there! Welcome to my Dev Universe 🚀</h1>
 
-###
+<h3 align="center">
+  I'm a <strong>Full Stack Developer</strong> passionate about building scalable, high-performance and clean-architecture solutions.<br>
+  Java on the backend ☕ | Angular, React & Next.js on the frontend ⚡ | Docker everywhere 🐳
+</h3>
 
-<h3 align="left">My Technologies</h3>
+<br>
 
-###
+---
+
+<h2 align="left">🔥 Tech Stack I Master</h2>
 
 <div align="center">
+
   <!-- Backend -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo" />
-  <img width="12" />
-  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" alt="java" />
+  <img width="15"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="45" alt="spring" />
+  <img width="15"/>
+
   <!-- Frontend -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angular logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo" />
-  <img width="12" />
-  
-  <!-- Infra & Tools -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo" />
-  <img width="12" />
-  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="45" alt="angular" />
+  <img width="15"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45" alt="react" />
+  <img width="15"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" height="45" alt="nextjs" />
+  <img width="15"/>
+
+  <!-- DevOps / Tools -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="45" alt="docker" />
+  <img width="15"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="git" />
+  <img width="15"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="45" alt="linux" />
+
+  <br><br>
+
   <!-- Databases -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
-  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="45" alt="postgresql" />
+  <img width="15"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" alt="mysql" />
+
 </div>
 
-###
+---
 
-<br clear="both">
+<br>
+
+<h2 align="left">📈 My GitHub Space</h2>
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AguinaldoDs&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=noctis_minimus&hide_border=false&order=2" height="170" alt="languages graph" />
-  <img src="https://github-readme-stats.vercel.app/api?username=AguinaldoDs&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=noctis_minimus&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AguinaldoDs&layout=compact&theme=tokyonight&hide_border=false&langs_count=6" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AguinaldoDs&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=false" height="180" />
 </div>
 
-###
+---
 
-<h3 align="left">Contact me!</h3>
+<br>
 
-###
+<h2 align="left">💬 About Me</h2>
+
+<p align="left">
+  I'm driven by challenges — the tougher the problem, the more excited I get to solve it.  
+  I love transforming complex ideas into elegant, high-quality software.  
+  Clean code, maintainability and good architecture are my go-to principles.  
+  Constant learner. Tech enthusiast. Builder at heart.  
+</p>
+
+---
+
+<br>
+
+<h2 align="left">📬 Let's Connect!</h2>
 
 <div align="left">
   <a href="https://www.linkedin.com/in/aguinaldo-freire-95bb5a181/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin" />
   </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo" />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo" />
+  <a href="#" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord" />
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail" />
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram" />
+  </a>
 </div>
 
-###
+<br>
+
+---
+
+<h3 align="center">✨ Thanks for stopping by — feel free to explore, fork, collaborate or just say hi!</h3>
