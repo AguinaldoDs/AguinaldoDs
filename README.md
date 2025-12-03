@@ -1,80 +1,112 @@
-<h1 align="center">👋 Hey there! Welcome to my Dev Universe 🚀</h1>
-
-<h3 align="center">
-  I'm a <strong>Full Stack Developer</strong> passionate about building scalable, high-performance and clean-architecture solutions.<br>
-  Java on the backend ☕ | Angular, React & Next.js on the frontend ⚡ | Docker everywhere 🐳
-</h3>
-
-<br>
-
----
-
-<h2 align="left">🔥 Tech Stack I Master</h2>
-
 <div align="center">
+  
+  <!-- Banner e Introdução -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=4000&pause=1000&color=5D8AA8&center=true&vCenter=true&width=600&lines=Olá%2C+eu+sou+o+Aguinaldo!;Desenvolvedor+Full+Stack;Bem-vindo+ao+meu+universo+dev+🚀" alt="Título animado" />
+  
+  <br/><br/>
 
-  <!-- Backend -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" alt="java" />
-  <img width="15"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="45" alt="spring" />
-  <img width="15"/>
+  <p align="center" style="font-size: 1.1rem; max-width: 800px; line-height: 1.6; color: #cccccc;">
+    Sou um <strong>Desenvolvedor Full Stack</strong> apaixonado por criar soluções escaláveis, 
+    de alta performance e com arquitetura limpa. Minha missão é transformar problemas complexos 
+    em software elegante, sustentável e bem estruturado.
+  </p>
 
-  <!-- Frontend -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="45" alt="angular" />
-  <img width="15"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45" alt="react" />
-  <img width="15"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" height="45" alt="nextjs" />
-  <img width="15"/>
+  <br/>
+  <hr style="border: 1px solid #2d3748; width: 80%;"/>
+  <br/>
 
-  <!-- DevOps / Tools -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="45" alt="docker" />
-  <img width="15"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="git" />
-  <img width="15"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="45" alt="linux" />
+  <!-- Stack Tecnológica -->
+  <h2 align="center">🛠️ Stack Principal</h2>
+  
+  <div align="center">
+    <h3>📡 Backend & DevOps</h3>
+    <div>
+      <img src="https://skillicons.dev/icons?i=java,spring,docker,linux,git,postgres,mysql" alt="Backend e DevOps" />
+    </div>
+    
+    <br/>
+    
+    <h3>🎨 Frontend</h3>
+    <div>
+      <img src="https://skillicons.dev/icons?i=angular,react,nextjs,tailwind,typescript" alt="Frontend" />
+    </div>
+  </div>
 
-  <br><br>
+  <br/><br/>
+  <hr style="border: 1px solid #2d3748; width: 80%;"/>
+  <br/>
 
-  <!-- Databases -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="45" alt="postgresql" />
-  <img width="15"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" alt="mysql" />
+  <!-- Estatísticas do GitHub -->
+  <h2 align="center">📊 Estatísticas do GitHub</h2>
+  
+  <div align="center">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=AguinaldoDs&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=5D8AA8&icon_color=5D8AA8&text_color=cccccc" alt="Estatísticas" />
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AguinaldoDs&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=5D8AA8&text_color=cccccc&langs_count=6" alt="Linguagens mais usadas" />
+  </div>
+
+  <br/><br/>
+  <hr style="border: 1px solid #2d3748; width: 80%;"/>
+  <br/>
+
+  <!-- Sobre Mim -->
+  <h2 align="center">👨‍💻 Sobre Mim</h2>
+  
+  <div align="center" style="max-width: 800px; text-align: center; line-height: 1.7;">
+    <p>
+      💡 <strong>Movido por desafios</strong> — quanto mais complexo o problema, mais motivado fico para resolvê-lo.
+    </p>
+    <p>
+      🧹 <strong>Aposto em código limpo</strong>, boas práticas, arquitetura escalável e documentação clara.
+    </p>
+    <p>
+      📚 <strong>Estudante contínuo</strong>, entusiasta de tecnologia e construído para criar.
+    </p>
+    <p>
+      🎯 <strong>Foco atual:</strong> Microsserviços, Cloud (AWS/Azure) e arquiteturas de alta disponibilidade.
+    </p>
+  </div>
+
+  <br/><br/>
+  <hr style="border: 1px solid #2d3748; width: 80%;"/>
+  <br/>
+
+  <!-- Contato -->
+  <h2 align="center">📬 Vamos Conectar!</h2>
+  
+  <div align="center">
+    <a href="mailto:seu-email@exemplo.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    </a>
+    <a href="https://linkedin.com/in/seu-linkedin" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://wa.me/5511999999999" target="_blank">
+      <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+    </a>
+  </div>
+
+  <br/><br/>
+
+  <!-- Rodapé -->
+  <div align="center">
+    <p style="font-size: 0.9rem; color: #888;">
+      Obrigado pela visita! Sinta-se à vontade para explorar, contribuir ou apenas dar um olá 👋
+    </p>
+    <img src="https://komarev.com/ghpvc/?username=AguinaldoDs&color=5D8AA8&style=flat-square" alt="Visualizações no perfil" />
+  </div>
 
 </div>
 
----
-
-<br>
-
-<h2 align="left">📈 My GitHub Space</h2>
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AguinaldoDs&layout=compact&theme=tokyonight&hide_border=false&langs_count=6" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api?username=AguinaldoDs&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=false" height="180" />
-</div>
-
----
-
-<br>
-
-<h2 align="left">💬 About Me</h2>
-
-<p align="left">
-  I'm driven by challenges — the tougher the problem, the more excited I get to solve it.  
-  I love transforming complex ideas into elegant, high-quality software.  
-  Clean code, maintainability and good architecture are my go-to principles.  
-  Constant learner. Tech enthusiast. Builder at heart.  
-</p>
-
----
-
-<br>
-
-<h2 align="left">📬 Let's Connect!</h2>
-
-<br>
-
----
-
-<h3 align="center">✨ Thanks for stopping by — feel free to explore, fork, collaborate or just say hi!</h3>
+<!-- Estilos adicionais -->
+<style>
+  /* Suaviza as bordas das imagens */
+  img {
+    border-radius: 8px;
+  }
+  
+  /* Adiciona transição suave ao passar o mouse nos badges */
+  a img:hover {
+    transform: translateY(-2px);
+    transition: transform 0.2s ease;
+  }
+</style>
